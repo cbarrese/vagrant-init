@@ -1,3 +1,3 @@
 Overview
 ============
-This repository is a template for creating a vagrant vm using puppet as a provisioner
+This repository is a template for creating an ubuntu vbox vm with vagrant using puppet as a provisioner
